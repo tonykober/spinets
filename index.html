@@ -8,6 +8,10 @@
     <link rel="stylesheet" href="http://esotericsoftware.com/files/spine-player/3.8/spine-player.css">
   </head>
   <body>
-    <div id="unityContainer" style="width: 575px; height: 750px; margin: auto"></div>
+    <script>new spine.SpinePlayer("player-container", {
+      jsonUrl: "/files/spineboy/export/spineboy-pro.json",
+      atlasUrl: "/files/spineboy/export/spineboy.atlas",
+      });
+    </script>
   </body>
 </html>
