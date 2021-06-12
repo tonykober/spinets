@@ -1,0 +1,223 @@
+
+Piedmon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm_01
+  rotate: false
+  xy: 1404, 529
+  size: 155, 81
+  orig: 155, 110
+  offset: 0, 29
+  index: -1
+L_arm_02
+  rotate: false
+  xy: 1945, 1123
+  size: 101, 136
+  orig: 101, 167
+  offset: 0, 31
+  index: -1
+L_hand_01
+  rotate: false
+  xy: 1900, 283
+  size: 145, 245
+  orig: 145, 245
+  offset: 0, 0
+  index: -1
+L_hand_02
+  rotate: false
+  xy: 1800, 197
+  size: 151, 149
+  orig: 151, 154
+  offset: 0, 0
+  index: -1
+L_leg_01
+  rotate: true
+  xy: 1672, 1167
+  size: 278, 247
+  orig: 280, 247
+  offset: 0, 0
+  index: -1
+L_leg_02
+  rotate: false
+  xy: 1743, 686
+  size: 247, 236
+  orig: 247, 236
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: false
+  xy: 1349, 1297
+  size: 195, 148
+  orig: 195, 148
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: true
+  xy: 1826, 863
+  size: 228, 212
+  orig: 228, 212
+  offset: 0, 0
+  index: -1
+R_hand_01
+  rotate: true
+  xy: 1473, 109
+  size: 210, 143
+  orig: 210, 143
+  offset: 0, 0
+  index: -1
+R_hand_02
+  rotate: false
+  xy: 1212, 226
+  size: 187, 192
+  orig: 187, 200
+  offset: 0, 6
+  index: -1
+R_leg_01
+  rotate: false
+  xy: 1108, 1074
+  size: 277, 371
+  orig: 289, 371
+  offset: 12, 0
+  index: -1
+R_leg_02
+  rotate: true
+  xy: 1108, 876
+  size: 213, 530
+  orig: 214, 530
+  offset: 1, 0
+  index: -1
+chest
+  rotate: false
+  xy: 1138, 580
+  size: 166, 170
+  orig: 167, 170
+  offset: 1, 0
+  index: -1
+head
+  rotate: false
+  xy: 1385, 1020
+  size: 287, 424
+  orig: 301, 441
+  offset: 1, 0
+  index: -1
+hip
+  rotate: false
+  xy: 1617, 127
+  size: 212, 135
+  orig: 212, 137
+  offset: 0, 2
+  index: -1
+neck
+  rotate: false
+  xy: 1370, 211
+  size: 202, 221
+  orig: 209, 227
+  offset: 0, 6
+  index: -1
+ribbon_01
+  rotate: false
+  xy: 1409, 519
+  size: 372, 414
+  orig: 372, 414
+  offset: 0, 0
+  index: -1
+ribbon_02
+  rotate: false
+  xy: 1369, 1195
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+ribbon_03_A
+  rotate: false
+  xy: 1893, 1248
+  size: 146, 197
+  orig: 149, 197
+  offset: 0, 0
+  index: -1
+ribbon_03_B
+  rotate: false
+  xy: 1566, 136
+  size: 192, 332
+  orig: 192, 332
+  offset: 0, 0
+  index: -1
+ribbon_03_C
+  rotate: false
+  xy: 1111, 105
+  size: 295, 162
+  orig: 295, 162
+  offset: 0, 0
+  index: -1
+ribbon_04_A
+  rotate: false
+  xy: 1108, 510
+  size: 408, 215
+  orig: 408, 244
+  offset: 0, 0
+  index: -1
+ribbon_04_B
+  rotate: true
+  xy: 1120, 690
+  size: 211, 320
+  orig: 211, 320
+  offset: 0, 0
+  index: -1
+ribbon_04_C
+  rotate: true
+  xy: 1700, 578
+  size: 234, 207
+  orig: 234, 207
+  offset: 0, 0
+  index: -1
+ribbon_04_D
+  rotate: false
+  xy: 1501, 744
+  size: 173, 93
+  orig: 173, 93
+  offset: 0, 0
+  index: -1
+ribbon_04_E
+  rotate: false
+  xy: 1623, 1035
+  size: 121, 107
+  orig: 121, 107
+  offset: 0, 0
+  index: -1
+ribbon_05
+  rotate: true
+  xy: 1577, 778
+  size: 399, 311
+  orig: 424, 311
+  offset: 25, 0
+  index: -1
+wep_01
+  rotate: true
+  xy: 1194, 366
+  size: 234, 658
+  orig: 234, 658
+  offset: 0, 0
+  index: -1
+wep_02
+  rotate: 180
+  xy: 1721, 257
+  size: 276, 372
+  orig: 276, 372
+  offset: 0, 0
+  index: -1
+wep_03
+  rotate: true
+  xy: 1777, 94
+  size: 133, 252
+  orig: 133, 252
+  offset: 0, 0
+  index: -1
+圖層 0 拷貝 4
+  rotate: false
+  xy: 2, 3
+  size: 1104, 1442
+  orig: 1104, 1442
+  offset: 0, 0
+  index: -1
